@@ -1,0 +1,9 @@
+site_name: Dotnet Tutorials
+nav:
+  - Inicio: index.md
+  - Tutoriales:
+      - Referencias nulas: nullable-references.md
+      - Async/Await: async-await.md
+theme:
+  name: material
+repo_url: https://github.com/RFuenteM/dotnet-tutorials
